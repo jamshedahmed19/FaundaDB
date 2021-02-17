@@ -1,0 +1,15 @@
+{
+  "name": "faunadb-s09",
+  "version": "1.0.0",
+  "description": "FaunaDB step 09 to update document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "faunadb": "^4.0.3"
+  }
+}

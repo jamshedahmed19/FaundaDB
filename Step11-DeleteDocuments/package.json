@@ -1,0 +1,15 @@
+{
+  "name": "faunadb-s11",
+  "version": "1.0.0",
+  "description": "FaunaDB step 11 delete documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "faunadb": "^4.0.3"
+  }
+}
